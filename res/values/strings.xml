@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoForKPMG</string>
+    <string name="action_settings">Settings</string>
+    <string name="capture">capture</string>
+    <string name="analyse">analyse</string>
+    <string name="exactres">Model</string>
+    <string name="selectimg" >select</string>
+    <string name="tip_start">Please Load Model in Your First Use!</string>
+    <string name="rebut">REBUT</string>
+    <string name="camera">CAMERA</string>
+</resources>
